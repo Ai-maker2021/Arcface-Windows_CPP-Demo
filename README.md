@@ -1,1 +1,1 @@
-# ArcFaceSDK Windows平台Demo
+# ArcFaceSDK Windows平台 C++ Demo
